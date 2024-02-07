@@ -32,13 +32,6 @@ body {
   left: 0;
   top: 0;
   width: 100%;
-  border: solid black 1px;
-  border-radius: 50%;
-}
-
-image {
-  border: solid black 1px;
-  border-radius: 50%;
 }
 
 .btn-container {
